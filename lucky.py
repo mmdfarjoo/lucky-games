@@ -1,5 +1,7 @@
 nameuser = input('hello user , what your name ?')
 print(f'wellcome {nameuser} to lucky game')
+
+#start game
 while(1):
 
     wellcome = input('menu \n start or help?:')
